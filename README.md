@@ -1,2 +1,2 @@
 ﻿# Live Preview:
- https://husamettindonus.github.io/Responsive-Web-Design.3/
+ https://husamettindonus.github.io/Responsive-Web-Dashboard-Design/
